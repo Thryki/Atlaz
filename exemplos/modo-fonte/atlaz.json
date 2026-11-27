@@ -1,0 +1,27 @@
+{
+  "modo": "fonte",
+  "entradas": [
+    "README.md"
+  ],
+  "estado": [
+    "decisoes/DECISION_LOG.md"
+  ],
+  "timeline": {
+    "arquivo": "TIMELINE.md",
+    "decisoes": "decisoes/DECISION_LOG.md",
+    "registros": "",
+    "discordancias": "",
+    "sessoes_glob": "@@"
+  },
+  "descricoes": {
+    "CURRENT.md": [
+      "o que está acontecendo agora",
+      "segundo degrau, logo depois do índice"
+    ],
+    "armazenamento.md": [
+      "assunto: onde os dados moram",
+      "ao decidir sobre banco ou arquivos"
+    ]
+  },
+  "indice_raiz": true
+}

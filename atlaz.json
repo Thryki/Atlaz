@@ -1,0 +1,15 @@
+{
+  "modo": "fonte",
+  "entradas": ["README.md", "AGENTS.md", "CLAUDE.md"],
+  "ignorar_pastas": [".git", ".obsidian", "node_modules", "__pycache__", ".venv", "exemplos"],
+  "descricoes": {
+    "SPEC.md": ["as regras do Atlaz, uma página", "antes de aplicar ou mudar a convenção"],
+    "ORIGEM.md": ["de onde veio: um assistente com memória, a analogia da cidade e o HNSW", "quando perguntar 'por que é assim?'"],
+    "ADOTAR.md": ["como adotar num projeto e qual modo escolher", "ao adotar num projeto novo; antes de mudar a convenção"],
+    "DECISION_LOG.md": ["decisões do Atlaz com motivo e alternativas", "antes de repropor algo"],
+    "atlaz.py": ["a ferramenta: links, índices, veja também, timeline, estado, lint, busca", "rode antes de todo commit"]
+  },
+  "pastas": {"docs": "Documentação do Atlaz", "ferramentas": "Ferramentas", "exemplos": "Exemplos"},
+  "estado": ["docs/DECISION_LOG.md"],
+  "timeline": {"arquivo": "docs/TIMELINE.md", "decisoes": "docs/DECISION_LOG.md"}
+}
