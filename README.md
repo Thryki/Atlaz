@@ -1,5 +1,7 @@
 # Atlaz
 
+<a href="https://www.iryxia.com"><img src="assets/selo-iryx.png" alt="Feito pela Iryx" width="180"></a>
+
 **Memória em camadas em arquivos de texto, para agentes de IA acharem o que precisam rápido e barato.**
 
 ![versão](https://img.shields.io/badge/vers%C3%A3o-0.3-060606?style=flat-square)
